@@ -1,8 +1,8 @@
 # Powermon
 
-A Particle project named Powermon
+A low power Particle project to read the blinking LED on your meter and upload your power usage every minute via a mesh network.
 
-## Welcome to your project!
+## Welcome!
 
 Every new Particle project is composed of 3 important elements that you'll see have been created in your project directory for Powermon.
 
