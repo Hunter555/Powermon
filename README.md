@@ -1,6 +1,6 @@
 # Powermon
 
-A low power Particle project to read the blinking LED on your meter and upload your power usage every minute via a mesh network.
+A low power Particle project to read the blinking LED on your meter and upload your power usage every minute via a mesh network. The payload is forwarded to an MQTT server by my [Aquarium monitoring project](https://github.com/Hunter555/aquamon).
 
 ## Welcome!
 
